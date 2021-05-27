@@ -131,6 +131,7 @@ dmypy.json
 
 # If you add to .gitignore:
 
-# ignore the ipynb checkpoints
-
+# ignore the ipynb c
 .ipynb_checkpoints
+
+.train_image_level.csv/
