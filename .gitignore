@@ -135,5 +135,5 @@ dmypy.json
 .ipynb_checkpoints
 
 train_image_level.csv/
-
+# ignore data
 train/
